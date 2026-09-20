@@ -1,0 +1,1 @@
+- fix(catalog): resolve canonical provider aliases for combo prefix stripping, align max_input_tokens with context_length, and protect authoritative Claude/GLM context windows from auto-discovery under-reporting ([#13994](https://github.com/diegosouzapw/OmniRoute/pull/13994))
